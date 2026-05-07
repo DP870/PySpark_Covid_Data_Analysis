@@ -1,0 +1,7 @@
+venv/
+.venv/
+env/
+bin/
+lib/
+include/
+*.csv
